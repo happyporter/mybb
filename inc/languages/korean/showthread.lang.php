@@ -1,0 +1,109 @@
+<?php
+/**
+ * MyBB 1.8 English Language Pack
+ * Copyright 2014 MyBB Group, All Rights Reserved
+ *
+ */
+
+$l['delete_poll'] = "Delete Poll";
+$l['close_thread'] = "Close Thread";
+$l['stick_thread'] = "Stick Thread";
+
+$l['author'] = "게시자";
+$l['message'] = "내용";
+$l['threaded'] = "Threaded Mode";
+$l['linear'] = "Linear Mode";
+$l['thread_modes'] = "Thread Modes";
+$l['next_oldest'] = "이전";
+$l['next_newest'] = "다음";
+$l['view_printable'] = "인쇄 미리보기";
+$l['send_thread'] = "친구에게 전송";
+$l['subscribe_thread'] = "구독하기";
+$l['unsubscribe_thread'] = "Unsubscribe from this thread";
+$l['add_poll_to_thread'] = "Add Poll to this thread";
+$l['moderation_options'] = "Moderation Options:";
+$l['delayed_moderation'] = "Delayed Moderation";
+$l['thread_notes'] = "Edit / View Thread Notes";
+$l['open_close_thread'] = "Open / Close Thread";
+$l['approve_thread'] = "Approve Thread";
+$l['unapprove_thread'] = "Unapprove Thread";
+$l['soft_delete_thread'] = "Soft Delete Thread";
+$l['restore_thread'] = "Restore Thread";
+$l['delete_thread'] = "Delete Thread Permanently";
+$l['delete_posts'] = "Delete Selective Posts";
+$l['move_thread'] = "Move / Copy Thread";
+$l['stick_unstick_thread'] = "Stick / Unstick Thread";
+$l['split_thread'] = "Split Thread";
+$l['merge_threads'] = "Merge Threads";
+$l['remove_redirects'] = "Remove Redirects";
+$l['remove_subscriptions'] = "Remove All Subscriptions";
+$l['poll'] = "Poll:";
+$l['show_results'] = "Show Results";
+$l['edit_poll'] = "Edit poll";
+$l['public_note'] = "<b>Note:</b> This is a public poll, other users will be able to see what you voted for.";
+$l['total'] = "Total";
+$l['vote'] = "Vote!";
+$l['total_votes'] = "{1} vote(s)";
+$l['you_voted'] = "* You voted for this item.";
+$l['poll_closed'] = "This poll is closed.";
+$l['poll_closes'] = "This poll will close on: {1}";
+$l['already_voted'] = "You have already voted in this poll.";
+$l['undo_vote'] = "Undo vote";
+$l['quick_reply'] = "빠른 답글";
+$l['message_note'] = "답글 내용을 입력하세요.";
+$l['signature'] = "사인";
+$l['email_notify'] = "Email Notification";
+$l['disable_smilies'] = "스마일리 비활성화";
+$l['post_reply'] = "답글 남기기";
+$l['post_reply_img'] = "Post Reply";
+$l['new_reply'] = "답글 작성";
+$l['search_button'] = '검색';
+$l['post_thread'] = "스레드 작성";
+$l['preview_post'] = "포스트 미리보기";
+$l['rating_average'] = "{1} Vote(s) - {2} Average";
+$l['rate_thread'] = "Rate This Thread:";
+$l['thread_rating'] = "스레드 평가:";
+$l['similar_threads'] = "Possibly Related Threads...";
+$l['thread'] = "스레드";
+$l['replies'] = "답글 수";
+$l['views'] = "조회 수";
+$l['lastpost'] = "최근 포스트";
+$l['messages_in_thread'] = "Messages In This Thread";
+$l['users_browsing_thread'] = "현재 이 스레드 이용자:";
+$l['users_browsing_thread_guests'] = "손님 {1}명";
+$l['users_browsing_thread_invis'] = "투명인가 {1}명";
+$l['users_browsing_thread_reading'] = "Reading...";
+$l['inline_soft_delete_posts'] = "Soft Delete Posts";
+$l['inline_restore_posts'] = "Restore Posts";
+$l['inline_delete_posts'] = "Delete Posts Permanently";
+$l['inline_merge_posts'] = "Merge Posts";
+$l['inline_split_posts'] = "Split Posts";
+$l['inline_move_posts'] = "Move Posts";
+$l['inline_approve_posts'] = "Approve Posts";
+$l['inline_unapprove_posts'] = "Unapprove Posts";
+$l['inline_post_moderation'] = "Inline Post Moderation:";
+$l['inline_go'] = "Go";
+$l['clear'] = "Clear";
+$l['thread_closed'] = "Thread Closed";
+$l['no_subject'] = "No subject";
+$l['error_nonextnewest'] = "There are no threads that are newer than the one you were previously viewing.";
+$l['error_nonextoldest'] = "There are no threads that are older than the one you were previously viewing.";
+$l['quickreply_multiquote_selected'] = "You have selected one or more posts to quote.";
+$l['quickreply_multiquote_now'] = "Quote these posts now";
+$l['or'] ="or";
+$l['quickreply_multiquote_deselect'] = "deselect them";
+$l['search_thread'] = "스레드 검색";
+$l['enter_keywords'] = "키워드를 입력하세요.";
+$l['view_thread_notes'] = "Thread Notes";
+$l['view_all_notes'] = "View All Notes";
+
+$l['save_changes'] = 'Save Changes';
+$l['cancel_edit'] = 'Cancel Edit';
+$l['quick_edit_update_error'] = 'There was an error editing your reply:';
+$l['quick_reply_post_error'] = 'There was an error posting your reply:';
+$l['quick_delete_error'] = 'There was an error deleting your reply:';
+$l['quick_delete_success'] = 'The post was deleted successfully.';
+$l['quick_delete_thread_success'] = 'The thread was deleted successfully.';
+$l['quick_restore_error'] = 'There was an error restoring your reply:';
+$l['quick_restore_success'] = 'The post was restored successfully.';
+
